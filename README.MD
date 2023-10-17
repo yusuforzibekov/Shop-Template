@@ -1,0 +1,2 @@
+# What is it
+This repository is created for practicing `Jquery`. You can choose one items in the website and you can pay it for this items and it will be delivered to your home within a week. Nice joke Yeah?
